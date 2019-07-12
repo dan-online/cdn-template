@@ -1,5 +1,7 @@
 # CDN Template in NodeJS
 
+[![CircleCI](https://circleci.com/gh/dan-online/cdn-template.svg?style=svg)](https://circleci.com/gh/dan-online/cdn-template)
+
 ## Setup
 
 `npm run setup`
