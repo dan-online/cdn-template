@@ -28,7 +28,7 @@
 2. Start with `npm start`
 3. Go to localhost:8080/f/file_name.png
 4. Use **q** for quality, **w** for width and **h** for height Ex.
-   `localhost:8080/f/file_name.png?h=200&w=200&q=200`
+   `localhost:8080/f/file_name.png?h=200&w=200&q=100`
 
 ## License
 
